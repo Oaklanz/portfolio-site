@@ -1,0 +1,34 @@
+h1 {
+    color:blueviolet;
+    background-color: aqua;
+}
+
+p {
+    font-style: italic;
+    background-color: aqua;
+}
+
+body{
+    background-color: rgb(221, 228, 214);
+    font-style: italic;
+}
+
+.shapes{
+   background-color: hotpink; 
+   border-radius: 100%;
+   height:  200px;
+   width: 300px;
+   margin-left: 200px;
+
+
+}
+.emblems{
+    background-color: yellowgreen;
+    border-radius: 25%;
+    width: 210px;
+    height: 144px;
+    margin-right: 200px;
+    margin-left: 25px;
+    position: relative;
+}
+
